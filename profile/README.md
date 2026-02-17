@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="log.png" alt="Nightshift Lobo Log" />
+  <img src="logo.png" alt="Nightshift Lobo Log" />
 </p>
 
 <h1 align="center">🌑 Nightshift Lobo</h1>
 
 <p align="center">
-  Ultra-Low-Light colour palettes for developers who live in the terminal.
+  Designed for developers who value precision over noise.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/nightshift-lobo/palette?style=for-the-badge&color=6F88E6&labelColor=0D1016" />
   <img src="https://img.shields.io/github/license/nightshift-lobo/palette?style=for-the-badge&color=A98CE8&labelColor=0D1016" />
   <img src="https://img.shields.io/badge/WCAG-Balanced-6ABF88?style=for-the-badge&labelColor=0D1016" />
-  <img src="https://img.shields.io/badge/Flavour-Eclipse-5C73C7?style=for-the-badge&labelColor=0D1016" />
 </p>
 
 ---
